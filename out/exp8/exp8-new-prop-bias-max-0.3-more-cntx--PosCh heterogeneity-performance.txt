@@ -1,0 +1,7 @@
+Performance of the model:
+Inference ID: exp8-new-prop-bias-max-0.3-more-cntx
+Number of samples: 7453
+Property: PosCh heterogeneity
+Spearman Correlation: 0.7866
+Spearman p-value: 0.0000e+00
+R² Score: 0.3691

@@ -1,0 +1,7 @@
+Performance of the model:
+Inference ID: exp8-max-0.3-bias
+Number of samples: 3757
+Property: Hydrophobicity
+Spearman Correlation: 0.9876
+Spearman p-value: 0.0000e+00
+R² Score: 0.9699

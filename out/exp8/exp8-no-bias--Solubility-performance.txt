@@ -1,0 +1,7 @@
+Performance of the model:
+Inference ID: exp8-no-bias
+Number of samples: 3758
+Property: Solubility
+Spearman Correlation: 0.8268
+Spearman p-value: 0.0000e+00
+R² Score: 0.6314

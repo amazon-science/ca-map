@@ -1,0 +1,5 @@
+models/*.pt filter=lfs diff=lfs merge=lfs -text
+runs/*/*/* filter=lfs diff=lfs merge=lfs -text
+exp_tx_gemma/models/*/*.pt filter=lfs diff=lfs merge=lfs -text
+exp_tx_gemma/models/*/*.safetensors filter=lfs diff=lfs merge=lfs -text
+exp_tx_gemma/models/*/*.bin filter=lfs diff=lfs merge=lfs -text

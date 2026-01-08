@@ -1,0 +1,7 @@
+Performance of the model:
+Inference ID: exp8-no-bias
+Number of samples: 3828
+Property: Stability 2 (aliph)
+Spearman Correlation: 0.9674
+Spearman p-value: 0.0000e+00
+R² Score: 0.9356

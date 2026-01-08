@@ -1,0 +1,7 @@
+Performance of the model:
+Inference ID: exp8-new-prop-bias-max-0.3-more-cntx
+Number of samples: 794
+Property: Immunogenicity
+Spearman Correlation: 0.7280
+Spearman p-value: 5.6356e-132
+R² Score: -6.7183
