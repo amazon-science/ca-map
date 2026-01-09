@@ -125,7 +125,9 @@ This will generate predictions with performance metrics and visualizations in th
 ## Citation
 
 Luca Giancardo*, Melih Yilmaz, Edward Lee, Ke Ren, Yue Zhao, Gordon Trang,
-Kemal Sonmez, Lan Guo, Nina Cheng "Context-aware Multi-Property Antibody Predictor: a Novel Framework Integrating Text and Protein Language Models". (under review)
+Kemal Sonmez, Lan Guo, Nina Cheng "Context-aware Multi-Property Antibody Predictor: a Novel Framework Integrating Text and Protein Language Models". (under review). 
+
+Pre-print availble at https://www.biorxiv.org/content/10.64898/2026.01.07.698270v1
 
 ## License
 This project is licensed under the [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en) License.
