@@ -130,3 +130,6 @@ Kemal Sonmez, Lan Guo, Nina Cheng. "Context-aware multi-property antibody predic
 
 ## License
 This project is licensed under the [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en) License.
+
+## Notes
+This code is being released solely for academic and scientific reproducibility purposes, in support of the methods and findings described in the associated publication. Pull requests are not being accepted in order to maintain the code exactly as it was used in the paper.
